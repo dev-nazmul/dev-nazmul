@@ -19,7 +19,7 @@
 
 
 ### Total Visitors 👀
-<img src="https://profile-counter.glitch.me/AH-INSTITUTE/count.svg" alt="Visitor Count"/>
+<img src="https://profile-counter.glitch.me/dev-nazmul/count.svg" alt="Visitor Count"/>
 
 ### Connect with me:
 
