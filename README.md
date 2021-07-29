@@ -14,7 +14,7 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AH-INSTITUTE&theme=dark&show_icons=true&hide_border=true" width="48%" >
   
   <p align="center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AH-INSTITUTE&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%"/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nazmul&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%"/>
   </p>
 
 
