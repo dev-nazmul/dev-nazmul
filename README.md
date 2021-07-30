@@ -1,4 +1,4 @@
-### Hi there, I'm Abu Hasan -  [Abu Hasan Portfolio][website] 👋
+### Hi there, I'm Nazmul Hossen -  [Nazmul Hossen Portfolio][website] 👋
 
 ## Jr Web developer | JavaScript Lover | Problem solver 
 
@@ -10,8 +10,8 @@
 
 ### 🏆 Github Stats
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=AH-INSTITUTE&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AH-INSTITUTE&theme=dark&show_icons=true&hide_border=true" width="48%" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=dev-nazmul&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dev-nazmul&theme=dark&show_icons=true&hide_border=true" width="48%" >
   
   <p align="center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nazmul&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%"/>
